@@ -193,3 +193,104 @@ who was bhagat singh = Bhagat Singh was a revolutionary freedom fighter who sacr
 when did india get independence = India got independence on 15 August 1947 from British rule.
 
 who was first prime minister of india = Jawaharlal Nehru was the first Prime Minister of independent India.
+what is grammar = Grammar is the set of rules that govern how words are used to form sentences in a language.
+
+what are parts of speech = Parts of speech are categories of words such as noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection.
+
+what is noun = A noun is a word that names a person, place, thing, or idea.
+
+types of noun = The main types of nouns are proper noun, common noun, collective noun, abstract noun, and material noun.
+
+what is pronoun = A pronoun is a word used in place of a noun.
+
+types of pronoun = Personal, possessive, reflexive, demonstrative, interrogative, and relative pronouns.
+
+what is verb = A verb is a word that shows action or state of being.
+
+types of verb = Main verb and helping verb are the main types of verbs.
+
+what is adjective = An adjective describes a noun or pronoun.
+
+what is adverb = An adverb describes a verb, adjective, or another adverb.
+
+what is preposition = A preposition shows the relationship between a noun and another word in the sentence.
+
+what is conjunction = A conjunction joins words, phrases, or clauses.
+
+what is interjection = An interjection expresses sudden emotion.
+
+what is article = Articles are words like a, an, and the used before nouns.
+
+difference between a and an = Use a before consonant sounds and an before vowel sounds.
+
+what is sentence = A sentence is a group of words that expresses a complete thought.
+
+types of sentences = Declarative, interrogative, imperative, and exclamatory sentences.
+
+what is present tense = Present tense describes actions happening now.
+
+what is past tense = Past tense describes actions that already happened.
+
+what is future tense = Future tense describes actions that will happen later.
+
+what is simple present tense = Simple present tense describes regular actions or universal truths.
+
+example of simple present tense = She goes to school every day.
+
+what is present continuous tense = Present continuous tense describes actions happening right now.
+
+example of present continuous tense = She is studying now.
+
+what is present perfect tense = Present perfect tense describes actions completed recently.
+
+example of present perfect tense = She has finished her work.
+
+what is past continuous tense = Past continuous tense describes actions that were happening in the past.
+
+what is future perfect tense = Future perfect tense describes actions that will be completed before a certain time in future.
+
+what is active voice = In active voice, the subject performs the action.
+
+what is passive voice = In passive voice, the subject receives the action.
+
+example of active voice = Ram wrote a letter.
+
+example of passive voice = A letter was written by Ram.
+
+what is direct speech = Direct speech repeats the exact words spoken by someone.
+
+what is indirect speech = Indirect speech reports what someone said without quoting exact words.
+
+what is modal verb = Modal verbs are helping verbs like can, could, may, might, must, shall, should, will, would.
+
+example of modal verb = She can swim very well.
+
+what is degree of comparison = Degree of comparison shows comparison between adjectives such as positive, comparative, and superlative.
+
+example of comparative degree = Ram is taller than Shyam.
+
+what is superlative degree = Ram is the tallest boy in the class.
+
+what is conditional sentence = Conditional sentences describe situations and their possible results.
+
+types of conditional sentences = Zero, first, second, and third conditional.
+
+what is subject and predicate = Subject is who or what the sentence is about, and predicate tells something about the subject.
+
+what is clause = A clause is a group of words containing a subject and verb.
+
+types of clause = Independent clause and dependent clause.
+
+what is phrase = A phrase is a group of words without a subject and verb.
+
+what is gerund = A gerund is a verb ending in -ing that acts as a noun.
+
+example of gerund = Swimming is good exercise.
+
+what is infinitive = An infinitive is the base form of a verb with to.
+
+example of infinitive = I want to learn English.
+
+what is punctuation = Punctuation marks like comma, full stop, and question mark help clarify meaning.
+
+what is subject verb agreement = Subject verb agreement means the verb must agree with the subject in number and person.
