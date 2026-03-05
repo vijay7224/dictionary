@@ -76,8 +76,8 @@ body {
 }
 
 .chat-input button {
-    margin-left: 10px;
-    padding: 10px 15px;
+    margin-left: 5px;
+    padding: 10px 12px;
     border: none;
     border-radius: 20px;
     background: #4CAF50;
@@ -88,6 +88,14 @@ body {
 .chat-input button:hover {
     background: #45a049;
 }
+
+.mic-btn {
+    background: #2196F3;
+}
+
+.mic-btn:hover {
+    background: #1e88e5;
+}
 </style>
 </head>
 
@@ -95,7 +103,7 @@ body {
 
 <div class="chat-container">
     <div class="chat-header">
-        Knowledge Chatbot 🤖
+        Knowledge Chatbot 🤖 (Voice Enabled)
     </div>
 
     <div class="chat-box" id="chatBox"></div>
@@ -103,6 +111,7 @@ body {
     <div class="chat-input">
         <input type="text" id="userInput" placeholder="Type your message..." onkeypress="handleKey(event)">
         <button onclick="sendMessage()">Send</button>
+        <button class="mic-btn" onclick="startVoice()">🎤</button>
     </div>
 </div>
 
@@ -114,6 +123,12 @@ function addMessage(message, sender) {
     messageDiv.innerText = message;
     chatBox.appendChild(messageDiv);
     chatBox.scrollTop = chatBox.scrollHeight;
+}
+
+function speak(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    speech.lang = "en-US";
+    window.speechSynthesis.speak(speech);
 }
 
 function sendMessage() {
@@ -135,6 +150,7 @@ function sendMessage() {
     .then(response => response.json())
     .then(data => {
         addMessage(data.reply, "bot");
+        speak(data.reply);   // 🔊 Bot speaks
     })
     .catch(error => {
         addMessage("Server error. Please try again.", "bot");
@@ -145,6 +161,28 @@ function handleKey(event) {
     if (event.key === "Enter") {
         sendMessage();
     }
+}
+
+// 🎤 Voice Recognition
+function startVoice() {
+    if (!('webkitSpeechRecognition' in window)) {
+        alert("Your browser does not support voice recognition.");
+        return;
+    }
+
+    const recognition = new webkitSpeechRecognition();
+    recognition.lang = "en-US";
+    recognition.start();
+
+    recognition.onresult = function(event) {
+        const transcript = event.results[0][0].transcript;
+        document.getElementById("userInput").value = transcript;
+        sendMessage();
+    };
+
+    recognition.onerror = function() {
+        alert("Voice recognition error.");
+    };
 }
 </script>
 
