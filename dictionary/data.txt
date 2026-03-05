@@ -1,0 +1,4 @@
+flask is a python web framework
+aws provides cloud hosting services
+machine learning is used for prediction
+student performance monitoring system is a database project
