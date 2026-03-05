@@ -6,16 +6,42 @@ good morning = Good morning ☀️ How can I help you?
 good afternoon = Good afternoon 😊 What would you like to know?
 good evening = Good evening 🌙 How can I assist you?
 
-what is flask = Flask is a lightweight Python web framework used to build web applications.
-who are you = I am a custom knowledge based chatbot created using Flask.
-who created you = I was created by Vijay.
-what is aws = AWS is a cloud computing platform that provides hosting and other cloud services.
-what is machine learning = Machine learning is a technology that allows computers to learn from data and make predictions.
-what is python = Python is a high level programming language used for web development, AI, and automation.
-what is render = Render is a cloud platform used to deploy web applications easily.
-what is a database = A database is a system used to store and manage data efficiently.
-what is mysql = MySQL is a relational database management system.
-what is api = API stands for Application Programming Interface. It allows different software systems to communicate.
-what is html = HTML is a markup language used to create web pages.
-what is css = CSS is used to style and design web pages.
-what is javascript = JavaScript is a programming language used to make web pages interactive.
+what is python = Python is a high-level, interpreted programming language created by Guido van Rossum in 1991. It is known for its simple syntax and readability. Python is widely used in web development, data science, machine learning, artificial intelligence, automation, and software development.
+
+what is flask = Flask is a lightweight web framework written in Python. It allows developers to build web applications easily using simple code structure. Flask is flexible and does not force a specific project structure.
+
+what is django = Django is a high-level Python web framework that encourages rapid development and clean design. It includes built-in features like authentication, admin panel, and ORM for database management.
+
+what is html = HTML stands for HyperText Markup Language. It is used to create the structure of web pages. It defines elements like headings, paragraphs, images, and links.
+
+what is css = CSS stands for Cascading Style Sheets. It is used to style HTML elements such as colors, fonts, layouts, and animations to make websites attractive.
+
+what is javascript = JavaScript is a programming language used to make web pages interactive. It can update content dynamically, control multimedia, and handle user events.
+
+what is machine learning = Machine Learning is a branch of Artificial Intelligence that allows computers to learn from data and make predictions without being explicitly programmed.
+
+what is artificial intelligence = Artificial Intelligence is the simulation of human intelligence in machines. AI systems can perform tasks like speech recognition, decision-making, and problem-solving.
+
+what is sql = SQL stands for Structured Query Language. It is used to store, manage, and retrieve data from relational databases.
+
+what is database = A database is an organized collection of data that can be easily accessed, managed, and updated.
+
+what is api = API stands for Application Programming Interface. It allows two applications to communicate with each other.
+
+what is cloud computing = Cloud computing provides computing services like storage, servers, and networking over the internet instead of local machines.
+
+what is aws = AWS (Amazon Web Services) is a cloud computing platform that provides services like hosting, storage, databases, and AI tools.
+
+what is git = Git is a version control system that helps developers track changes in code and collaborate with others.
+
+what is github = GitHub is a platform that hosts Git repositories and allows developers to collaborate on projects.
+
+what is frontend = Frontend refers to the part of a website that users interact with directly, including design and layout.
+
+what is backend = Backend is the server-side part of an application that handles logic, database interaction, and authentication.
+
+what is full stack development = Full stack development involves working on both frontend and backend parts of a web application.
+
+what is oop = OOP stands for Object-Oriented Programming. It is a programming paradigm based on classes and objects.
+
+what is data science = Data Science is a field that uses statistical methods, algorithms, and tools to analyze and extract insights from data.
