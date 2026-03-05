@@ -218,3 +218,149 @@ hi:milky way kya hai = मिल्की वे हमारी आकाशग
 
 en:universe = Universe is everything that exists, including galaxies, planets, and matter.
 hi:brahmand kya hai = ब्रह्मांड वह सब कुछ है जो मौजूद है, जिसमें आकाशगंगाएं, ग्रह और पदार्थ शामिल हैं।
+en:what is python = Python is a high-level programming language used for web development, AI, and automation.
+hi:python kya hai = Python एक उच्च स्तरीय प्रोग्रामिंग भाषा है जो वेब डेवलपमेंट, AI और ऑटोमेशन के लिए इस्तेमाल होती है।
+
+en:who created python = Python was created by Guido van Rossum in 1991.
+hi:python kisne banaya = Python को Guido van Rossum ने 1991 में बनाया था।
+
+en:what is flask = Flask is a lightweight Python web framework used to build web applications.
+hi:flask kya hai = Flask एक हल्का Python वेब फ्रेमवर्क है जो वेब एप्लिकेशन बनाने के लिए इस्तेमाल होता है।
+
+en:what is django = Django is a high-level Python web framework for building secure web applications.
+hi:django kya hai = Django एक उच्च स्तरीय Python वेब फ्रेमवर्क है जिसका उपयोग सुरक्षित वेब एप्लिकेशन बनाने के लिए होता है।
+
+en:what is html = HTML is the standard language used to create web pages.
+hi:html kya hai = HTML वेब पेज बनाने की मानक भाषा है।
+
+en:what is css = CSS is used to style and design web pages.
+hi:css kya hai = CSS का उपयोग वेब पेज को डिजाइन और स्टाइल करने के लिए किया जाता है।
+
+en:what is javascript = JavaScript is a programming language used to make web pages interactive.
+hi:javascript kya hai = JavaScript एक प्रोग्रामिंग भाषा है जो वेब पेज को इंटरैक्टिव बनाती है।
+
+en:what is ai = Artificial Intelligence is the simulation of human intelligence in machines.
+hi:ai kya hai = आर्टिफिशियल इंटेलिजेंस मशीनों में मानव बुद्धिमत्ता का अनुकरण है।
+
+en:what is machine learning = Machine Learning is a field of AI that allows computers to learn from data.
+hi:machine learning kya hai = मशीन लर्निंग AI का एक क्षेत्र है जो कंप्यूटर को डेटा से सीखने देता है।
+
+en:what is deep learning = Deep Learning is a subset of machine learning using neural networks.
+hi:deep learning kya hai = डीप लर्निंग मशीन लर्निंग का एक भाग है जो न्यूरल नेटवर्क का उपयोग करता है।
+
+en:what is data science = Data Science is the process of extracting insights from data.
+hi:data science kya hai = डेटा साइंस डेटा से जानकारी निकालने की प्रक्रिया है।
+
+en:what is numpy = NumPy is a Python library used for numerical computing.
+hi:numpy kya hai = NumPy Python की लाइब्रेरी है जो संख्यात्मक गणना के लिए उपयोग होती है।
+
+en:what is pandas = Pandas is a Python library used for data analysis and data manipulation.
+hi:pandas kya hai = Pandas Python की लाइब्रेरी है जो डेटा विश्लेषण के लिए उपयोग होती है।
+
+en:what is matplotlib = Matplotlib is a Python library used for data visualization.
+hi:matplotlib kya hai = Matplotlib Python की लाइब्रेरी है जो डेटा विज़ुअलाइजेशन के लिए उपयोग होती है।
+
+en:what is seaborn = Seaborn is a Python library for statistical data visualization.
+hi:seaborn kya hai = Seaborn सांख्यिकीय डेटा विज़ुअलाइजेशन के लिए Python लाइब्रेरी है।
+
+en:what is sql = SQL is a language used to manage and query databases.
+hi:sql kya hai = SQL डेटाबेस को प्रबंधित और क्वेरी करने की भाषा है।
+
+en:what is database = A database is a structured collection of data.
+hi:database kya hai = डेटाबेस डेटा का व्यवस्थित संग्रह होता है।
+
+en:what is mysql = MySQL is a popular relational database management system.
+hi:mysql kya hai = MySQL एक लोकप्रिय रिलेशनल डेटाबेस मैनेजमेंट सिस्टम है।
+
+en:what is mongodb = MongoDB is a NoSQL database that stores data in JSON-like format.
+hi:mongodb kya hai = MongoDB एक NoSQL डेटाबेस है जो JSON जैसे फॉर्मेट में डेटा स्टोर करता है।
+
+en:what is api = API allows different software applications to communicate with each other.
+hi:api kya hai = API अलग-अलग सॉफ्टवेयर को आपस में संवाद करने की सुविधा देता है।
+
+en:what is json = JSON is a lightweight data format used for data exchange.
+hi:json kya hai = JSON डेटा एक्सचेंज के लिए उपयोग होने वाला हल्का डेटा फॉर्मेट है।
+
+en:what is git = Git is a version control system used to track code changes.
+hi:git kya hai = Git एक वर्जन कंट्रोल सिस्टम है जो कोड में बदलाव को ट्रैक करता है।
+
+en:what is github = GitHub is a platform to host and manage Git repositories.
+hi:github kya hai = GitHub Git रिपॉजिटरी होस्ट करने का प्लेटफॉर्म है।
+
+en:what is linux = Linux is an open-source operating system.
+hi:linux kya hai = Linux एक ओपन-सोर्स ऑपरेटिंग सिस्टम है।
+
+en:what is windows = Windows is an operating system developed by Microsoft.
+hi:windows kya hai = Windows Microsoft द्वारा विकसित ऑपरेटिंग सिस्टम है।
+
+en:what is operating system = An operating system manages computer hardware and software resources.
+hi:operating system kya hai = ऑपरेटिंग सिस्टम कंप्यूटर के हार्डवेयर और सॉफ्टवेयर को नियंत्रित करता है।
+
+en:what is cloud computing = Cloud computing provides computing services over the internet.
+hi:cloud computing kya hai = क्लाउड कंप्यूटिंग इंटरनेट के माध्यम से कंप्यूटिंग सेवाएं प्रदान करता है।
+
+en:what is aws = AWS is a cloud platform provided by Amazon.
+hi:aws kya hai = AWS Amazon द्वारा प्रदान किया गया क्लाउड प्लेटफॉर्म है।
+
+en:what is docker = Docker is a platform used to create and manage containers.
+hi:docker kya hai = Docker कंटेनर बनाने और मैनेज करने का प्लेटफॉर्म है।
+
+en:what is chatbot = A chatbot is a software that can simulate conversation with users.
+hi:chatbot kya hai = चैटबॉट एक सॉफ्टवेयर है जो यूज़र से बातचीत कर सकता है।
+
+en:what is nlp = NLP is a field of AI that helps computers understand human language.
+hi:nlp kya hai = NLP AI का क्षेत्र है जो कंप्यूटर को मानव भाषा समझने में मदद करता है।
+
+en:what is tensorflow = TensorFlow is an open-source machine learning framework by Google.
+hi:tensorflow kya hai = TensorFlow Google का ओपन-सोर्स मशीन लर्निंग फ्रेमवर्क है।
+
+en:what is pytorch = PyTorch is an open-source deep learning framework.
+hi:pytorch kya hai = PyTorch एक ओपन-सोर्स डीप लर्निंग फ्रेमवर्क है।
+
+en:what is neural network = A neural network is a system inspired by the human brain for machine learning.
+hi:neural network kya hai = न्यूरल नेटवर्क मानव मस्तिष्क से प्रेरित मशीन लर्निंग मॉडल है।
+
+en:what is big data = Big Data refers to very large datasets that require advanced tools for analysis.
+hi:big data kya hai = बिग डेटा बहुत बड़े डेटा सेट को कहा जाता है जिनके विश्लेषण के लिए विशेष टूल की जरूरत होती है।
+
+en:what is blockchain = Blockchain is a distributed digital ledger technology.
+hi:blockchain kya hai = ब्लॉकचेन एक वितरित डिजिटल लेजर तकनीक है।
+
+en:what is cryptocurrency = Cryptocurrency is a digital currency based on blockchain technology.
+hi:cryptocurrency kya hai = क्रिप्टोकरेंसी ब्लॉकचेन तकनीक पर आधारित डिजिटल मुद्रा है।
+
+en:what is internet = The internet is a global network that connects computers worldwide.
+hi:internet kya hai = इंटरनेट एक वैश्विक नेटवर्क है जो कंप्यूटरों को जोड़ता है।
+
+en:what is website = A website is a collection of web pages accessible through the internet.
+hi:website kya hai = वेबसाइट इंटरनेट पर उपलब्ध वेब पेजों का संग्रह है।
+
+en:what is hosting = Hosting is a service that stores websites on servers.
+hi:hosting kya hai = होस्टिंग वह सेवा है जो वेबसाइट को सर्वर पर स्टोर करती है।
+
+en:what is domain = A domain is the address used to access a website.
+hi:domain kya hai = डोमेन वेबसाइट का इंटरनेट पता होता है।
+
+en:what is frontend = Frontend is the part of a website users interact with.
+hi:frontend kya hai = फ्रंटएंड वेबसाइट का वह हिस्सा है जिससे यूज़र इंटरैक्ट करता है।
+
+en:what is backend = Backend is the server-side logic of a website.
+hi:backend kya hai = बैकएंड वेबसाइट का सर्वर-साइड लॉजिक होता है।
+
+en:what is full stack developer = A full stack developer works on both frontend and backend.
+hi:full stack developer kya hai = फुल स्टैक डेवलपर फ्रंटएंड और बैकएंड दोनों पर काम करता है।
+
+en:what is algorithm = An algorithm is a step-by-step procedure to solve a problem.
+hi:algorithm kya hai = एल्गोरिदम समस्या हल करने की चरणबद्ध प्रक्रिया है।
+
+en:what is data structure = Data structure is a way to organize and store data efficiently.
+hi:data structure kya hai = डेटा स्ट्रक्चर डेटा को व्यवस्थित तरीके से स्टोर करने की विधि है।
+
+en:what is array = An array is a collection of elements stored in contiguous memory.
+hi:array kya hai = एरे समान प्रकार के डेटा का संग्रह होता है।
+
+en:what is stack = Stack is a data structure that follows LIFO order.
+hi:stack kya hai = स्टैक एक डेटा स्ट्रक्चर है जो LIFO सिद्धांत पर काम करता है।
+
+en:what is queue = Queue is a data structure that follows FIFO order.
+hi:queue kya hai = क्यू एक डेटा स्ट्रक्चर है जो FIFO सिद्धांत पर काम करता है।
