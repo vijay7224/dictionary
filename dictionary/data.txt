@@ -575,3 +575,92 @@ hi:transcript kya hai = ट्रांसक्रिप्ट छात्र 
 
 en:what is convocation = Convocation is the ceremony where degrees are awarded.
 hi:convocation kya hai = दीक्षांत समारोह वह कार्यक्रम है जहाँ डिग्री दी जाती है।
+en:what is the capital of india = The capital of India is New Delhi.
+hi:india ki rajdhani kya hai = भारत की राजधानी नई दिल्ली है।
+
+en:who is the prime minister of india = The Prime Minister of India is Narendra Modi.
+hi:india ke pradhan mantri kaun hai = भारत के प्रधानमंत्री नरेंद्र मोदी हैं।
+
+en:who is the president of india = The President of India is Droupadi Murmu.
+hi:india ke rashtrapati kaun hai = भारत की राष्ट्रपति द्रौपदी मुर्मू हैं।
+
+en:what is the national animal of india = The national animal of India is the tiger.
+hi:india ka rashtriya pashu kya hai = भारत का राष्ट्रीय पशु बाघ है।
+
+en:what is the national bird of india = The national bird of India is the peacock.
+hi:india ka rashtriya pakshi kya hai = भारत का राष्ट्रीय पक्षी मोर है।
+
+en:what is the national flower of india = The national flower of India is the lotus.
+hi:india ka rashtriya phool kya hai = भारत का राष्ट्रीय फूल कमल है।
+
+en:what is the national fruit of india = The national fruit of India is the mango.
+hi:india ka rashtriya phal kya hai = भारत का राष्ट्रीय फल आम है।
+
+en:what is the national tree of india = The national tree of India is the banyan tree.
+hi:india ka rashtriya vriksh kya hai = भारत का राष्ट्रीय वृक्ष बरगद है।
+
+en:who discovered india = India was discovered by Vasco da Gama in 1498.
+hi:india ki khoj kisne ki = भारत की खोज वास्को द गामा ने 1498 में की।
+
+en:who is known as the father of nation in india = Mahatma Gandhi is known as the Father of the Nation in India.
+hi:bharat ke rashtrapita kaun hai = महात्मा गांधी को भारत का राष्ट्रपिता कहा जाता है।
+
+en:when did india get independence = India got independence on 15 August 1947.
+hi:india ko azadi kab mili = भारत को 15 अगस्त 1947 को आजादी मिली।
+
+en:what is the largest state in india = Rajasthan is the largest state in India by area.
+hi:india ka sabse bada rajya kaun sa hai = राजस्थान भारत का क्षेत्रफल के अनुसार सबसे बड़ा राज्य है।
+
+en:what is the smallest state in india = Goa is the smallest state in India by area.
+hi:india ka sabse chhota rajya kaun sa hai = गोवा भारत का सबसे छोटा राज्य है।
+
+en:what is the longest river in india = The Ganga is the longest river in India.
+hi:india ki sabse lambi nadi kaun si hai = गंगा भारत की सबसे लंबी नदी है।
+
+en:what is the highest mountain in the world = Mount Everest is the highest mountain in the world.
+hi:duniya ka sabse uncha parvat kaun sa hai = माउंट एवरेस्ट दुनिया का सबसे ऊँचा पर्वत है।
+
+en:what is the largest ocean in the world = The Pacific Ocean is the largest ocean in the world.
+hi:duniya ka sabse bada mahasagar kaun sa hai = प्रशांत महासागर दुनिया का सबसे बड़ा महासागर है।
+
+en:who invented the telephone = Alexander Graham Bell invented the telephone.
+hi:telephone kisne banaya = टेलीफोन का आविष्कार अलेक्जेंडर ग्राहम बेल ने किया।
+
+en:who invented the light bulb = Thomas Edison invented the electric light bulb.
+hi:bulb kisne banaya = बल्ब का आविष्कार थॉमस एडिसन ने किया।
+
+en:who invented the airplane = The Wright brothers invented the airplane.
+hi:hawai jahaj kisne banaya = हवाई जहाज का आविष्कार राइट ब्रदर्स ने किया।
+
+en:what is the largest continent in the world = Asia is the largest continent in the world.
+hi:duniya ka sabse bada mahadweep kaun sa hai = एशिया दुनिया का सबसे बड़ा महाद्वीप है।
+
+en:what is the smallest continent in the world = Australia is the smallest continent in the world.
+hi:duniya ka sabse chhota mahadweep kaun sa hai = ऑस्ट्रेलिया सबसे छोटा महाद्वीप है।
+
+en:which planet is known as the red planet = Mars is known as the red planet.
+hi:lal grah kise kaha jata hai = मंगल ग्रह को लाल ग्रह कहा जाता है।
+
+en:which planet is the largest in the solar system = Jupiter is the largest planet in the solar system.
+hi:sabse bada grah kaun sa hai = बृहस्पति सौरमंडल का सबसे बड़ा ग्रह है।
+
+en:which planet is closest to the sun = Mercury is the closest planet to the sun.
+hi:surya ke sabse paas kaun sa grah hai = बुध सूर्य के सबसे पास का ग्रह है।
+
+en:which planet is known as the blue planet = Earth is known as the blue planet.
+hi:neela grah kise kaha jata hai = पृथ्वी को नीला ग्रह कहा जाता है।
+
+en:what is the national game of india = Hockey is considered the national game of India.
+hi:india ka rashtriya khel kya hai = भारत का राष्ट्रीय खेल हॉकी माना जाता है।
+
+en:who is known as the flying sikh = Milkha Singh is known as the Flying Sikh.
+hi:flying sikh kise kaha jata hai = मिल्खा सिंह को फ्लाइंग सिख कहा जाता है।
+
+en:who is known as the missile man of india = APJ Abdul Kalam is known as the Missile Man of India.
+hi:missile man of india kaun hai = एपीजे अब्दुल कलाम को मिसाइल मैन ऑफ इंडिया कहा जाता है।
+
+en:who wrote the national anthem of india = Rabindranath Tagore wrote the national anthem of India.
+hi:india ka rashtragaan kisne likha = भारत का राष्ट्रगान रवीन्द्रनाथ टैगोर ने लिखा।
+
+en:what is the national song of india = Vande Mataram is the national song of India.
+hi:india ka rashtriya geet kya hai = वंदे मातरम भारत का राष्ट्रीय गीत है।
