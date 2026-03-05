@@ -1,16 +1,40 @@
-hi = Hello 👋 How can I help you today?
-hello = Hi there 👋 What would you like to know?
-hii = Hello 😊 How can I assist you?
-hey = Hey 👋 Ask me anything from my knowledge base.
-good morning = Good morning ☀️ How can I help you?
-good afternoon = Good afternoon 😊 What would you like to know?
-good evening = Good evening 🌙 How can I assist you?
+en:hi = Hello 👋 How can I help you today?
+hi:hi = नमस्ते 👋 मैं आपकी कैसे मदद कर सकता हूँ?
 
-what is python = Python is a high-level, interpreted programming language created by Guido van Rossum in 1991. It is known for its simple syntax and readability. Python is widely used in web development, data science, machine learning, artificial intelligence, automation, and software development.
+en:hello = Hi there 👋 What would you like to know?
+hi:hello = नमस्ते 👋 आप क्या जानना चाहते हैं?
 
-what is flask = Flask is a lightweight web framework written in Python. It allows developers to build web applications easily using simple code structure. Flask is flexible and does not force a specific project structure.
+en:what is python = Python is a high-level programming language used for web development, AI, and automation.
+hi:python kya hai = Python एक उच्च स्तरीय प्रोग्रामिंग भाषा है जो वेब डेवलपमेंट, AI और ऑटोमेशन के लिए इस्तेमाल होती है।
 
-what is django = Django is a high-level Python web framework that encourages rapid development and clean design. It includes built-in features like authentication, admin panel, and ORM for database management.
+en:what is flask = Flask is a lightweight Python web framework used to build web applications.
+hi:flask kya hai = Flask एक हल्का Python वेब फ्रेमवर्क है जो वेब एप्लिकेशन बनाने के लिए इस्तेमाल होता है।
+
+en:what is machine learning = Machine learning allows computers to learn from data and make predictions.
+hi:machine learning kya hai = मशीन लर्निंग कंप्यूटर को डेटा से सीखने और भविष्यवाणी करने की क्षमता देती है।
+
+en:good morning = Good morning ☀️ How can I help you today?
+hi:good morning = सुप्रभात ☀️ मैं आपकी आज कैसे मदद कर सकता हूँ?
+
+en:good night = Good night 🌙 Have a restful sleep.
+hi:good night = शुभ रात्रि 🌙 अच्छी नींद लें।
+
+en:who was mahatma gandhi = Mahatma Gandhi was the leader of Indian independence movement known for non-violence.
+hi:mahatma gandhi kaun the = महात्मा गांधी भारत की स्वतंत्रता संग्राम के नेता थे, जो अहिंसा के लिए प्रसिद्ध थे।
+
+en:what is html = HTML is the standard markup language used to create web pages.
+hi:html kya hai = HTML वेब पेज बनाने के लिए इस्तेमाल होने वाली स्टैंडर्ड मार्कअप भाषा है।
+
+en:what is css = CSS is used to style and design web pages.
+hi:css kya hai = CSS का उपयोग वेब पेज को स्टाइल और डिजाइन करने के लिए किया जाता है।
+
+en:what is javascript = JavaScript is a programming language used to make web pages interactive.
+hi:javascript kya hai = JavaScript एक प्रोग्रामिंग भाषा है जो वेब पेज को इंटरैक्टिव बनाती है।
+
+en:how to prepare for exams = Create a study timetable, revise regularly, and practice previous questions.
+hi:exam ki tayari kaise kare = अध्ययन का समय सारिणी बनाएं, नियमित रूप से पुनरावलोकन करें और पिछले प्रश्नों का अभ्यास करें।
+
+.
 
 what is html = HTML stands for HyperText Markup Language. It is used to create the structure of web pages. It defines elements like headings, paragraphs, images, and links.
 
