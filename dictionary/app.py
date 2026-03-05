@@ -6,10 +6,19 @@ app = Flask(__name__)
 
 # Load knowledge base
 def load_knowledge():
+    knowledge_dict = {}
+
     if not os.path.exists("data.txt"):
-        return []
+        return knowledge_dict
+
     with open("data.txt", "r", encoding="utf-8") as f:
-        return [line.strip().lower() for line in f.readlines()]
+        for line in f:
+            if "=" in line:
+                question, answer = line.strip().split("=", 1)
+                knowledge_dict[question.strip().lower()] = answer.strip()
+
+    return knowledge_dict
+
 
 knowledge = load_knowledge()
 
@@ -30,21 +39,18 @@ def chat():
         if user_message == "":
             return jsonify({"reply": "Message cannot be empty."})
 
-        # Find closest match
-        match = difflib.get_close_matches(
-            user_message,
-            knowledge,
-            n=1,
-            cutoff=0.4  # similarity threshold
-        )
+        # Exact match
+        if user_message in knowledge:
+            return jsonify({"reply": knowledge[user_message]})
+
+        # Closest match
+        questions = list(knowledge.keys())
+        match = difflib.get_close_matches(user_message, questions, n=1, cutoff=0.5)
 
         if match:
-            reply = match[0]
+            return jsonify({"reply": knowledge[match[0]]})
         else:
-            reply = "Sorry, information not found in my knowledge base."
-
-        return jsonify({"reply": reply})
+            return jsonify({"reply": "Sorry, information not found in my knowledge base."})
 
     except Exception as e:
         return jsonify({"reply": "Server error occurred."})
-
